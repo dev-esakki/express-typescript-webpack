@@ -50,3 +50,8 @@ Code editor of your choice.
 
 3. Include type defintions for node with ### `npm i @types/node -D` ###
 
+
+### `Reference`
+
+1. https://scotch.io/tutorials/setting-up-a-node-project-with-typescript
+2. https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52
