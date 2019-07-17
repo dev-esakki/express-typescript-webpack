@@ -27,6 +27,11 @@ Runs the app in the development mode with deployment source.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
+### `npm run test`
+
+Runs the app in test mode with watch and motitor the coverage of all tests 
+
+
 ### `Prerequisites.`
 
 Basic typescript and webpack knowledge 
