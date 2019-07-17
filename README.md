@@ -3,7 +3,7 @@
 ## Installation
 
 # clone the repo
-$ git clone https://github.com/dev-esakki/express-typescript-webpack.git
+$ git clone https://github.com/dev-esakki/express-typescript-webpack.git project
 
 # go into app's directory
 $ cd project
