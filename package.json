@@ -7,7 +7,7 @@
     "build": "webpack",
     "start:dev": "NODE_ENV=development webpack",
     "run:dev": "NODE_ENV=development nodemon build/index.js",
-    "test": "jest --watchAll --coverage"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
